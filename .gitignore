@@ -1,0 +1,6 @@
+# *.db and *.sqlite3 are build artifacts — regenerate with:
+#   python3 data/generate_data.py --build-db
+*.db
+*.sqlite3
+
+__pycache__/
