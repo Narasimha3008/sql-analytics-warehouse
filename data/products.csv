@@ -1,0 +1,25 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price
+1,Wireless Headphones,Electronics,Audio,45,129
+2,4K Smart TV 55in,Electronics,TV & Video,320,699
+3,Laptop Stand Pro,Electronics,Accessories,18,59
+4,Mechanical Keyboard,Electronics,Accessories,35,99
+5,Smart Watch,Electronics,Wearables,90,249
+6,Bluetooth Speaker,Electronics,Audio,28,79
+7,Denim Jacket,Apparel,Outerwear,30,89
+8,Running Shoes,Apparel,Footwear,40,120
+9,Cotton T-Shirt,Apparel,Tops,8,25
+10,Wool Sweater,Apparel,Tops,25,75
+11,Yoga Pants,Apparel,Bottoms,15,45
+12,Leather Wallet,Apparel,Accessories,12,40
+13,Coffee Maker,Home,Kitchen,55,149
+14,Air Fryer,Home,Kitchen,48,129
+15,Robot Vacuum,Home,Cleaning,150,399
+16,Desk Lamp,Home,Lighting,14,39
+17,Throw Pillow Set,Home,Decor,16,49
+18,Cast Iron Skillet,Home,Kitchen,20,55
+19,Tennis Racket,Sports,Racquet Sports,60,159
+20,Yoga Mat,Sports,Fitness,12,35
+21,Dumbbell Set,Sports,Fitness,70,179
+22,Camping Tent,Sports,Outdoor,80,219
+23,Basketball,Sports,Team Sports,10,30
+24,Hiking Backpack,Sports,Outdoor,45,120
